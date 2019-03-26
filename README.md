@@ -1,6 +1,4 @@
-# WebChat
-
-web微信客户端
+# web微信客户端
 
 软件版本：QT5.12.2 + Python 3.6.6
 
