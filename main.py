@@ -16,5 +16,3 @@ webchat = app.webchatapp.WebChatApp()
 
 # 启动qt application，退出时的状态码，交给sys退出时的状态码。
 sys.exit(web_app.exec())  # 非必须
-
-# hello world
