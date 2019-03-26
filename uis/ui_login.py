@@ -12,7 +12,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_ui_login(object):
     def setupUi(self, ui_login):
         ui_login.setObjectName("ui_login")
-        ui_login.resize(400, 300)
+        ui_login.resize(280, 370)
         self.lbl_qr = QtWidgets.QLabel(ui_login)
         self.lbl_qr.setGeometry(QtCore.QRect(0, 0, 400, 300))
         font = QtGui.QFont()
@@ -27,7 +27,5 @@ class Ui_ui_login(object):
 
     def retranslateUi(self, ui_login):
         _translate = QtCore.QCoreApplication.translate
-        ui_login.setWindowTitle(_translate("ui_login", "Dialog"))
+        ui_login.setWindowTitle(_translate("ui_login", "微信"))
         self.lbl_qr.setText(_translate("ui_login", "加载二维码....."))
-
-
