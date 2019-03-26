@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1e14588-0a7d-4c22-be7b-d09a1b1b529b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/helpers/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/user.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/uis/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/webchatapp.py" afterPath="$PROJECT_DIR$/app/webchatapp.py" />
-      <change beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change beforePath="$PROJECT_DIR$/tencents/webchathelper.py" afterPath="$PROJECT_DIR$/helpers/webchathelper.py" />
-      <change beforePath="$PROJECT_DIR$/uis/dlgqrlogin.py" afterPath="$PROJECT_DIR$/uis/dlgqrlogin.py" />
-      <change beforePath="$PROJECT_DIR$/uis/ui_login.py" afterPath="$PROJECT_DIR$/uis/ui_login.py" />
-      <change beforePath="$PROJECT_DIR$/uis/widwebchatmain.py" afterPath="$PROJECT_DIR$/uis/widwebchatmain.py" />
-    </list>
+    <list default="true" id="f1e14588-0a7d-4c22-be7b-d09a1b1b529b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +46,8 @@
       <file leaf-file-name="widwebchatmain.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/uis/widwebchatmain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+            <state relative-caret-position="639">
+              <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding>
                 <element signature="e#25#35#0" expanded="true" />
               </folding>
@@ -178,9 +166,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1265" />
-    <option name="y" value="52" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="428" />
+    <option name="y" value="72" />
     <option name="width" value="1956" />
     <option name="height" value="1326" />
   </component>
@@ -405,14 +393,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1265" y="52" width="1956" height="1326" extended-state="0" />
+    <frame x="428" y="72" width="1956" height="1326" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864866" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47471622" sideWeight="0.50211483" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40117747" sideWeight="0.49841017" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30613962" sideWeight="0.49841017" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36741215" sideWeight="0.4978852" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12394515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -677,8 +665,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/uis/widwebchatmain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+        <state relative-caret-position="639">
+          <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding>
             <element signature="e#25#35#0" expanded="true" />
           </folding>
